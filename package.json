@@ -15,7 +15,7 @@
     "@bancoin/ledger": "git://github.com/Bancoinplatform/bancoin-ledger-js.git#e4b2d41",
     "@bancoin/money-like-to-node": "git://github.com/Bancoinplatform/money-like-to-node.git#31c696c",
     "@bancoin/ts-types": "git://github.com/Bancoinplatform/ts-types.git#62399c3",
-    "@bancoin/bancoin-transactions": "git://github.com/Bancoinplatform/bancoin-transactions.git#3ef9915",
+    "@bancoin/bancoin-transactions": "git://github.com/Bancoinplatform/bancoin-transactions.git#65389c4",
     "@bancoin/ts-lib-crypto": "git://github.com/Bancoinplatform/ts-lib-crypto.git#a910dc6",
     "ramda": "^0.25.0"
   },
